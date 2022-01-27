@@ -1,5 +1,9 @@
-# Tarea 1
+# Obtención de solución analítica de los valores propios de la matriz de varianza covarianza
 
 ## José Antonio Duarte
 
-Código para tarea 1 de temas selectos de estádistica del CIMAT
+Se obtiene la solución analítica de los valores propios de una matriz de varianza covarianza poblacional, que está definida como:
+
+div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5CSigma%20%3D%20%5Csigma_f%5E2%20L%20L%5Et%20%2B%20%5Csigma_%5Cepsilon%5E2%20I_p"></div>
+
+
